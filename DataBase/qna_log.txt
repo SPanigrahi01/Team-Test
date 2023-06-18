@@ -1,0 +1,89 @@
+You: Hello, what is a black-hole? 
+Jarvis: A black hole is a region of spacetime where the gravitational field is so strong that nothing, not even light, can escape from it.
+You: Hello
+Jarvis: Helo Sir, How are you?
+You: My age is 23 years.
+Jarvis: I will remember. You are Kaito and you age is 23.
+You: Hello!
+Jarvis: Hi there! How can I assist you today?
+You: What is your name?
+Jarvis: I'm an AI assistant. You can call me Jarvis.
+You: How are you?
+Jarvis: I'm an AI, so I don't have feelings, but I'm here to help you with any questions you have.
+You: What can you do?
+Jarvis: I can provide information, answer questions, and assist with various tasks. Just let me know what you need help with!
+You: Tell me a joke.
+Jarvis: Sure! Here's one: Why don't scientists trust atoms? Because they make up everything!
+You: What can you do?
+Jarvis: I can provide information, answer questions, and assist with various tasks. Just let me know what you need help with!
+You: How are you feeling today, Jarvis?
+Jarvis: As an AI, I don't experience emotions like humans do. However, I'm here and ready to assist you with anything you need.
+You: I appreciate your help, Jarvis.
+Jarvis: Thank you! I'm here to make your experience as smooth as possible. How can I assist you further?
+You: I'm feeling a bit down today.
+Jarvis: I'm sorry to hear that. Is there anything specific on your mind that you'd like to talk about or any way I can help lift your spirits?
+You: I had a great day today!
+Jarvis: That's wonderful to hear! I'm glad you had a positive day. If there's anything you'd like to share about it or anything else you'd like to discuss, feel free to let me know.
+You: I'm feeling frustrated with a problem I'm facing.
+Jarvis: I understand that dealing with challenges can be tough. Take a deep breath and let's try to find a solution together. Please describe the problem you're facing, and I'll do my best to assist you.
+You: I'm really excited about an upcoming event!
+Jarvis: That's fantastic! I'm happy to hear that you're looking forward to something. Is there anything specific you'd like to know or discuss about the event?
+You : what is your name? 
+Jarvis : My name is Jarvis, and I am an AI assistant. You can call me Jarvis.
+You : And My name is "Kaito". 
+Jarvis : Hello Kaito! It's nice to meet you.
+You : How old am I? 
+Jarvis : You are 23 years old.
+You : Hi 
+Jarvis : Hello there! How can I assist you today?
+You : how are you 
+Jarvis : I'm an AI, so I don't have feelings, but I'm here to help you with any questions you have.
+You : whatsapp black hole 
+Jarvis : A black hole is a region of spacetime where the gravitational field is so strong that nothing, not even light, can escape from it.
+You :  
+Jarvis : If you have any questions about black holes, I'd be happy to try and answer them for you.
+You : what is your name 
+Jarvis : My name is Jarvis, and I am an AI assistant. You can call me Jarvis.
+You : what is 2000 + 6000 + 75 
+Jarvis : The sum of 2000 + 6000 + 75 is 8,075.
+You :  
+Jarvis : Is there anything else you need help with today?
+You :  
+Jarvis : If you have any other questions, please let me know. I'll be happy to help in any way I can.
+You : what is 10 into 64 into 75 
+Jarvis : The product of 10, 64, and 75 is 48,000.
+You :  
+Jarvis : If you have any other questions, please let me know. I'll be happy to help in any way I can.
+You : what can you stop 
+Jarvis : I can provide information, answer questions, and assist with various tasks. Just let me know what you need help with!
+You : start 
+Jarvis : I'm here to help you with anything you need. Just let me know what you need assistance with and I'll be happy to help.
+You :  
+Jarvis : If you have any other questions, please let me know. I'll be happy to help in any way I can.
+You : nothing 
+Jarvis : If you have any other questions, please let me know. I'll be happy to help in any way I can.
+You : name of 40 
+Jarvis : There are 40 elements on the periodic table, including hydrogen, helium, lithium, and so on.
+You :  
+Jarvis : If you have any other questions, please let me know. I'll be happy to help in any way I can.
+You :  
+Jarvis : If you have any other questions, please let me know. I'll be happy to help in any way I can.
+You : no darshan 
+Jarvis : I'm sorry, I don't understand what you're asking for. Can you please clarify?
+You : how much is 10 + 2 2008 275 
+Jarvis : The sum of 10 + 2 + 2008 + 275 is 2,295.
+Q : what is your name 
+A : My name is Jarvis, and I am an AI assistant. You can call me Jarvis.
+Q : what is the black hole 
+A : A black hole is a region of spacetime where the gravitational field is so strong that nothing, not even light, can escape from it.
+Q : what is light 
+A : Light is a type of electromagnetic radiation that is visible to the human eye. It is made up of tiny particles called photons.
+Q : what is a black hole 
+A : A black hole is a region of spacetime where the gravitational field is so strong that nothing, not even light, can escape from it.
+
+Q : what is tripod 
+A : A tripod is a three-legged support structure, typically used to stabilize a camera or other piece of equipment.
+Q : what is tablet 25 + 735 into 5 
+A : The product of 25, 735, and 5 is 9,375,000.
+Q : what is can you do 
+A : I can provide information, answer questions, and assist with various tasks. Just let me know what you need help with!
