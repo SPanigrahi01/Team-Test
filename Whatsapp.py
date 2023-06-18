@@ -21,7 +21,7 @@ from Body.Listen import Listen
 # sleep(5)
 # Speak("Initializing The Whatsapp Software.")
 
-ListWeb = {'me': "+919937080775"}
+ListWeb = {'Name': "+Number"}
 
 # def WhatsappSender(Name):
 #     Speak(f"Preparing To Send a Message To {Name}")
